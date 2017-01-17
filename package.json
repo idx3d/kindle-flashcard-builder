@@ -1,0 +1,12 @@
+{
+  "name": "kindle-flashcard-builder",
+  "version": "1.0.0",
+  "description": "Reads Kindle Vocabulary database and transforms it to flashcard hero format (tsv) to import",
+  "main": "app.js",
+  "author": "Denys Lieu <whyredmind@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^3.1.8",
+    "wordnet": "^0.1.2"
+  }
+}
